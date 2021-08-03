@@ -1,0 +1,15 @@
+body,
+html {
+  background-color: #2b5049;
+  background-image: linear-gradient(to right,#7bbbaf,#1c3c36);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #3498db;
+}
+h1 {
+  color: #1abc9c;
+  font-family: "Press Start 2P", cursive;
+  margin-top: 10vh;
+}
